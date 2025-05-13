@@ -1,24 +1,12 @@
 <!-- Redes sociales alineadas a la derecha -->
 <div align="right">
-  <a href="https://github.com/codediaz" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/JuanOviedo04" target="_blank" style="text-decoration: none;">
     <img 
-      src="https://visitor-badge.laobi.icu/badge?page_id=codediaz.codediaz&left_color=gray&right_color=blue&left_text=Coders%20visitors"
+      src="https://visitor-badge.laobi.icu/badge?page_id=JuanOviedo04.JuanOviedo04&left_color=gray&right_color=blue&left_text=Coders%20visitors"
       style="background-color: red; border: 2px solid black; border-radius: 5px;">
   </a>
 
-  <a href="https://twitter.com/codediazsergio" target="_blank" style="text-decoration: none;">
-    <img 
-      src="https://img.shields.io/twitter/follow/chipro?label=Follow&style=social"
-      width="60"
-      style="background-color: red; border: 2px solid black; border-radius: 5px;">
-  </a>
 
-  <a href="https://www.linkedin.com/in/sergio-diaz-fernandez/" target="_blank" style="text-decoration: none;">
-    <img 
-      src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white"
-      width="70"
-      style="background-color: red; border: 2px solid black; border-radius: 5px;">
-  </a>
 </div>
 
 <br>
