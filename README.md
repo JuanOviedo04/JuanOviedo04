@@ -28,6 +28,9 @@
 </div>
 
 
+
+<div align="center">
+<img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=JuanOviedo04&label=Profile%20views&color=0047AB&style=plastic?" alt="JuanOviedo04" height=25px, width=160px/> 
 	<!---
@@ -36,7 +39,7 @@
 		</a>
 	-->
 	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="JuanOviedo04" target="_blank" height=25px, width=250px/> 
 	</a>
 
 </p>
@@ -95,3 +98,22 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
 </p>
+
+<br></br>
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
+
+
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/user/11153360645](https://open.spotify.com/user/31vm4sv2oxkjorgfwjgpeayvuxjq?si=26d7ca4e6f2144e6))
+
+---
+
+<div align="center">
+<img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
+<img alt="Hola" align="center" height="50%" width="100%" 
